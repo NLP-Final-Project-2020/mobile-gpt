@@ -10,6 +10,8 @@ Ensure python virtual environment is made using python3.6
 
 Install requirements with the command `python -m pip install -r requirements.txt`
 
+Also, create a folder called `models` then unzip the `jokes.zip` file in google drive at that location
+
 3. Set flask environment variables
 
 Set flask app by `export FLASK_APP=run.py`
